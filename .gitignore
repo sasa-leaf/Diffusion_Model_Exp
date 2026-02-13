@@ -1,3 +1,6 @@
 .venv/
 data/
+output/
 memo/
+__pycache__/
+*.py[cod]
